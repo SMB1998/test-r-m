@@ -31,9 +31,6 @@ To install and run the application, follow these steps:
    git clone https://github.com/tuusuario/rick-and-morty-character-viewer.git
 
    ```
-   W
-
-   ````
 
 1. **Installation**  
    npm install &&
